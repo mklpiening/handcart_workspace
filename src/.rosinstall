@@ -1,0 +1,20 @@
+- git:
+    local-name: ackermann_msgs
+    uri: https://github.com/ros-drivers/ackermann_msgs.git
+    version: master 
+- git:
+    local-name: ackermann_teleop
+    uri: git@github.com:mklpiening/ackermann_teleop.git
+    version: master
+- git:
+    local-name: handcart_driver
+    uri: git@mklpiening.de:mklpiening/handcart_driver.git
+    version: master
+- git:
+    local-name: handcart_shaft
+    uri: git@mklpiening.de:mklpiening/handcart_shaft.git
+    version: master
+- git:
+    local-name: handcart_shaft_angle_controller
+    uri: git@mklpiening.de:mklpiening/handcart_shaft_angle_controller.git
+    version: master
