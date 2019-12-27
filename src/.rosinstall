@@ -18,3 +18,7 @@
     local-name: handcart_shaft_angle_controller
     uri: git@mklpiening.de:mklpiening/handcart_shaft_angle_controller.git
     version: master
+- git:
+    local-name: handcart_robot
+    uri: https://github.com/mklpiening/handcart_robot.git
+    version: master
